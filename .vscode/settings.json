@@ -1,0 +1,7 @@
+{
+    "CodeGPT.Autocomplete.provider": "Mistral - codestral-latest",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.maxTokens": 1024,
+    "CodeGPT.Autocomplete.suggestionDelay": 900,
+    "CodeGPT.apiKey": "LM Studio"
+}
